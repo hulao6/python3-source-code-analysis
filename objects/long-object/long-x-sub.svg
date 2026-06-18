@@ -22,7 +22,7 @@
 <g class="val" fill="#0A463A"><text x="179" y="87" text-anchor="middle">1</text><text x="237" y="87" text-anchor="middle">0</text><text x="295" y="87" text-anchor="middle">3</text></g>
 
 <!-- minus -->
-<text x="128" y="153" text-anchor="middle" class="rl" fill="#5C5B53">−</text>
+<text x="150" y="122" text-anchor="middle" class="rl" fill="#5C5B53">−</text>
 
 <!-- row b -->
 <g class="idx" fill="#9A988F"><text x="179" y="122" text-anchor="middle">0</text><text x="237" y="122" text-anchor="middle">1</text></g>

@@ -27,7 +27,7 @@
 <g class="val" fill="#0A463A"><text x="209" y="87" text-anchor="middle">1</text><text x="267" y="87" text-anchor="middle">6</text><text x="325" y="87" text-anchor="middle">8</text></g>
 
 <!-- plus -->
-<text x="150" y="143" text-anchor="middle" class="rl" fill="#5C5B53">+</text>
+<text x="150" y="122" text-anchor="middle" class="rl" fill="#5C5B53">+</text>
 
 <!-- row b -->
 <text x="158" y="157" text-anchor="end" class="rl" fill="#0A463A">b</text>
